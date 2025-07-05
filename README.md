@@ -97,12 +97,6 @@
           <br><strong>Direct Contact</strong>
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/prathamps" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-          <br><strong>View Projects</strong>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
