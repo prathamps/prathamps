@@ -46,15 +46,19 @@
 <div align="center">
   
 **Frontend Development**  
+<br>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" height="40"/>
 
 **Backend & Infrastructure**  
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,python,java,mongodb,postgresql,redis" height="40"/>
 
 **Cloud & Tools**  
+<br>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,figma" height="40"/>
 
 **Niche Technologies**  
+<br>
 <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white" />
 <img src="https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3-dot-js&logoColor=white" />
 <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain-dot-com&logoColor=white" />
