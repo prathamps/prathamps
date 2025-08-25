@@ -69,16 +69,14 @@
 
 
 <div align="center">
-  
-  
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img width="440" src="https://github-readme-stats.vercel.app/api?username=prathamps&show_icons=true&theme=dark&hide_border=true&title_color=007AFF&text_color=1D1D1F&icon_color=007AFF&bg_color=FFFFFF&border_radius=12" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);" />
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamps&layout=compact&theme=dark&hide_border=true&title_color=007AFF&text_color=1D1D1F&bg_color=FFFFFF&border_radius=12" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);" />
+    <img width="440" src="https://github-readme-stats.vercel.app/api?username=prathamps&show_icons=true&theme=dark&hide_border=true&title_color=007AFF&icon_color=007AFF&bg_color=0D1117&border_radius=12" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamps&layout=compact&theme=dark&hide_border=true&title_color=007AFF&bg_color=0D1117&border_radius=12" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
   </div>
   
   <br>
   
-  <img width="520" src="https://github-readme-streak-stats.herokuapp.com?user=prathamps&theme=dark&hide_border=true&background=FFFFFF&stroke=007AFF&ring=007AFF&fire=FF3B30&currStreakLabel=007AFF&border_radius=12" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);" />
+  <img width="520" src="https://github-readme-streak-stats.herokuapp.com?user=prathamps&theme=dark&hide_border=true&background=0D1117&stroke=007AFF&ring=007AFF&fire=FF3B30&currStreakLabel=007AFF&border_radius=12" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </div>
 
 
